@@ -1,0 +1,15 @@
+C:\Users\Savva\Desktop\Практики 3 курс\2 Семестр\Лапухина С# + SQL\Pattern\PatternObserver\bin\Debug\PatternObserver.exe.config
+C:\Users\Savva\Desktop\Практики 3 курс\2 Семестр\Лапухина С# + SQL\Pattern\PatternObserver\bin\Debug\PatternObserver.exe
+C:\Users\Savva\Desktop\Практики 3 курс\2 Семестр\Лапухина С# + SQL\Pattern\PatternObserver\bin\Debug\PatternObserver.pdb
+C:\Users\Savva\Desktop\Практики 3 курс\2 Семестр\Лапухина С# + SQL\Pattern\PatternObserver\obj\Debug\PatternObserver.csproj.AssemblyReference.cache
+C:\Users\Savva\Desktop\Практики 3 курс\2 Семестр\Лапухина С# + SQL\Pattern\PatternObserver\obj\Debug\MainWindow.g.cs
+C:\Users\Savva\Desktop\Практики 3 курс\2 Семестр\Лапухина С# + SQL\Pattern\PatternObserver\obj\Debug\App.g.cs
+C:\Users\Savva\Desktop\Практики 3 курс\2 Семестр\Лапухина С# + SQL\Pattern\PatternObserver\obj\Debug\PatternObserver_MarkupCompile.cache
+C:\Users\Savva\Desktop\Практики 3 курс\2 Семестр\Лапухина С# + SQL\Pattern\PatternObserver\obj\Debug\PatternObserver_MarkupCompile.lref
+C:\Users\Savva\Desktop\Практики 3 курс\2 Семестр\Лапухина С# + SQL\Pattern\PatternObserver\obj\Debug\MainWindow.baml
+C:\Users\Savva\Desktop\Практики 3 курс\2 Семестр\Лапухина С# + SQL\Pattern\PatternObserver\obj\Debug\PatternObserver.g.resources
+C:\Users\Savva\Desktop\Практики 3 курс\2 Семестр\Лапухина С# + SQL\Pattern\PatternObserver\obj\Debug\PatternObserver.Properties.Resources.resources
+C:\Users\Savva\Desktop\Практики 3 курс\2 Семестр\Лапухина С# + SQL\Pattern\PatternObserver\obj\Debug\PatternObserver.csproj.GenerateResource.cache
+C:\Users\Savva\Desktop\Практики 3 курс\2 Семестр\Лапухина С# + SQL\Pattern\PatternObserver\obj\Debug\PatternObserver.csproj.CoreCompileInputs.cache
+C:\Users\Savva\Desktop\Практики 3 курс\2 Семестр\Лапухина С# + SQL\Pattern\PatternObserver\obj\Debug\PatternObserver.exe
+C:\Users\Savva\Desktop\Практики 3 курс\2 Семестр\Лапухина С# + SQL\Pattern\PatternObserver\obj\Debug\PatternObserver.pdb
