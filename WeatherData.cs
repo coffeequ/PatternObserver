@@ -71,5 +71,7 @@ namespace PatternObserver
             this.IsMagneticStorm = IsMagneticStorm;
             measurementsChanged();
         }
+
+
     }
 }
